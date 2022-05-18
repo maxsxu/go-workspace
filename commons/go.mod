@@ -1,3 +1,3 @@
-module github.com/maxsxu/go-workspace/commons
+module atmax.io/go-workspace/commons
 
 go 1.18
